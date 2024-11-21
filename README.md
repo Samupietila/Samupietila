@@ -19,7 +19,7 @@ I'm a passionate software developer with experience in JavaScript, CSS, and HTML
 - Learning new programming languages
 
 Feel free to reach out for collaboration or just to say hi!
-- **[Email](samupietila.tyot@gmail.com)
+[Email me](mailto:samupietila.tyot@gmail.com)
 
 <!--
 **Samupietila/Samupietila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
