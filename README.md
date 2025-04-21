@@ -4,7 +4,7 @@
 I'm a passionate software developer with experience in JavaScript, CSS, and HTML. I enjoy building web applications and exploring new technologies.
 
 ## Skills
-- **Languages**: JavaScript, HTML, CSS, Java
+- **Languages**: JavaScript, HTML, CSS, Java, Kotlin, Swift
 - **Frameworks**: React, Node.js
 - **Tools**: Git, Docker
 
